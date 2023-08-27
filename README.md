@@ -17,3 +17,12 @@ git branch -M main
 git push -u origin main
 
 ```
+
+# adding new branch and pushing to main repo
+
+```
+    git branch "branch name"
+    git checkout -b "branch name"
+    git push origin "branch name"
+    
+```
